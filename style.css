@@ -1,0 +1,111 @@
+body{
+    font-family: 'Anton', sans-serif;
+    margin: 5px;
+}
+
+.border-line{
+    border-left: 4px solid red;
+    padding-left: 5px;
+}
+    
+
+
+
+.m-color{
+    color: rgb(87, 136, 209);
+}
+
+.section-felx{
+    display: flex;
+    margin: 10px 5px;
+
+}
+
+.wp{
+    width: 50%;
+    padding: 5%;
+}
+.wp img{
+    width: 60%;   
+    border-radius: 30px;
+}
+
+.my-shadow{
+    box-shadow: 8px 10px 15px gray;
+}
+.md-img{
+    width: 50%;
+    height: 90%;
+    
+}
+.last-img{
+    width: 80%;
+    height: 100%;
+   
+}
+
+.link-btn{
+    text-decoration: none;
+	color: #d5e1e6;
+	font-size: 17px;
+	border-radius: 5px;
+	padding: 5px 16px;
+	background: rgb(45, 92, 76);
+	align-items: center;
+    
+}
+
+.all-div{
+    padding: 4px 10px;
+    margin: 20px;
+    width: 50%;
+    text-align: justify;
+    border-radius: 7px;
+    box-shadow: 5px 15px 20px gray;
+}
+
+.miss{
+background-color: rgb(190, 115, 197);
+}
+.viss{
+    background-color: rgb(129, 165, 182);
+}
+.goals {
+    background-color: rgb(132, 163, 128);
+}
+
+
+.div-pic{
+    width: 30%;
+    padding-left: 25%;
+    padding-top: 20px;
+}
+
+
+.btn{
+    color: #ebc7c3;
+	font-size: 17px;
+	border-radius: 25px;
+	border: 0px #3866a3 solid;
+	padding: 10px 16px;
+	background: linear-gradient(180deg, #00e9fa 10%, #092333 100%);
+	box-shadow: -1px 4px 2px  #aec0d1;
+	align-items: center;
+    margin-left: 20px;
+    
+}
+
+footer{
+    background-color: rgb(155, 201, 201);
+    padding: 15px;
+    text-align: center;
+}
+
+.rp{
+    background-color: rgb(226, 238, 238);
+    margin: 5px;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 50%;
+    height: 40%;
+}
